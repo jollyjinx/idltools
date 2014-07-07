@@ -1,12 +1,13 @@
-Tools for working with IDL 400 based boxes like 
+Tools for IDL based Sat>IP boxes like:
+--------------------------------------
 
-Inverto IDL 400s
-Telestar Digbit R1
-GSS DSI 400
+- Inverto IDL 400s
+- Telestar Digbit R1
+- GSS DSI 400
 
 
 
-extract_initramfs.perl (Mac Version)
+extract_initramfs.perl
 ----------------------
 extracts the filesystem from a downloaded firmware update file (idl4k.bin) to a directory.
 
