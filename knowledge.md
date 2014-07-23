@@ -51,15 +51,29 @@ Power consumption
 -----------------
 
 
-Measured on a GSS DSI400 and a DIGIBIT R1 with V1.16.0.120 with 230V:
-
-Standby:
+IDL400s and identical hardware (measured on a GSS DSI400 and a DIGIBIT R1 with V1.16.0.120 with 230V):
 
 - 9.3 W (Gigabit ethernet)
 - 6.2 W (100MBit ethernet)
 - about 2 Watts per receiver when in use.
 
 It seems that the ethernet chip is capable of supporting green ethernet standards, but the manufacture has not enabled that yet.
+
+
+MegaSat 0600187 (Triax 400 & Zinwell 1800 contain same firmware, so probably have somewhat equal power use):
+
+- 16.8 W when in use/idle (Gigabit ethernet)
+
+Elgato Eytv 4Sat netstream:
+
+- 16.2 W when in use (Gigabit ethernet)
+- 6.7W when idle (Gigabit ethernet)
+
+
+
+
+
+
 
 
 
